@@ -12,14 +12,19 @@
 
 ## How to run
 
-**Step 1** — Click the "Open in Cloud Shell" button in the CloudLabs UI.
+**Step 1** — Click **"Start Lab"** in the CloudLabs UI and wait for it to show **Running**.
 
-**Step 2** — Run the lab:
+**Step 2** — Click **"Open in Cloud Shell"** in the CloudLabs UI.
+
+**Step 3** — Run the lab:
 ```bash
 python lab01.py
 ```
 
-That's it. No setup needed.
+That's it.
+
+> **Important:** Always start the lab from the CloudLabs UI before running the script.
+> The UI sets up your project access — without it, logging will fail.
 
 ---
 
